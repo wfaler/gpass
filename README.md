@@ -1,0 +1,2 @@
+# gpass
+gpg password manager
