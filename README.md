@@ -21,11 +21,11 @@ As opposed to [password store](http://www.passwordstore.org/), gpass does the fo
 
     gpass new [entry-name] [pwd-length] [optional-username]
 
-#### Add more fields an entry
+#### Add more fields for an entry
 
     gpass add [entry-name] [key] [value]
 
-#### update an existing field an entry
+#### update an existing field for an entry
 
     gpass update [entry-name] [key] [value]
 
