@@ -25,9 +25,9 @@ As opposed to [password store](http://www.passwordstore.org/), gpass does the fo
 
     gpass add [entry-name] [key] [value]
 
-#### update a field an entry
+#### update an existing field an entry
 
-    gpass add [entry-name] [key] [value]
+    gpass update [entry-name] [key] [value]
 
 #### Show password for an individual entry
 
